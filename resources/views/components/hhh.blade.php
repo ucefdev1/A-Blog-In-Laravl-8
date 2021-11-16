@@ -1,0 +1,4 @@
+<div>
+    llolo
+    {{$slot}}
+</div>
